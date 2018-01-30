@@ -13,21 +13,23 @@ The following hyperparameters were used:
 - epochs: 50
 - batch_size: 10
 
-The loss per batch is steadily decreasing. A plot is shown as follows:
+The loss per batch is steadily decreasing. For clarity, the following plot describes only the last 49 epochs:
+
+![](readme_images/loss.png)
 
 #### Sample results
-![](./readme_images/01.png =250x)
+![](readme_images/01.png)
 
-![](./readme_images/02.png =250x)
+![](readme_images/02.png)
 
-![](./readme_images/03.png =250x)
+![](readme_images/03.png)
 
-![](./readme_images/04.png =250x)
+![](readme_images/04.png)
 
-![](./readme_images/05.png =250x)
+![](readme_images/05.png)
 
-![](./readme_images/06.png =250x)
+![](readme_images/06.png)
 
-![](./readme_images/07.png =250x)
+![](readme_images/07.png)
 
-![](./readme_images/08.png =250x)
+![](readme_images/08.png)
