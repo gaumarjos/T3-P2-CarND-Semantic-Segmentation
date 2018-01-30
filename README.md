@@ -16,14 +16,18 @@ The following hyperparameters were used:
 The loss per batch is steadily decreasing. A plot is shown as follows:
 
 #### Sample results
-![](./runs/1517315452.771893/um_000000.png =250x)
+![](./readme_images/01.png =250x)
 
-![](./runs/1517315452.771893/um_000000.png =250x)
+![](./readme_images/02.png =250x)
 
-![](./runs/1517315452.771893/um_000000.png =250x)
+![](./readme_images/03.png =250x)
 
-![](./runs/1517315452.771893/um_000000.png =250x)
+![](./readme_images/04.png =250x)
 
-![](./runs/1517315452.771893/um_000000.png =250x)
+![](./readme_images/05.png =250x)
 
-![](./runs/1517315452.771893/um_000000.png =250x)
+![](./readme_images/06.png =250x)
+
+![](./readme_images/07.png =250x)
+
+![](./readme_images/08.png =250x)
