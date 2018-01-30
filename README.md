@@ -1,5 +1,5 @@
 # CarND-Semantic-Segmentation
-Project developed for the Self-Driving Car Engineer Nanodegree Program, for a (way) more complete implementation using the Mapillary database, see [here](https://github.com/stesalati/RoadPerceptionSemanticSegmentation).
+Project developed for the Self-Driving Car Engineer Nanodegree Program, for a (way) more (and undocumented) complete implementation using the Mapillary database, see [here](https://github.com/stesalati/RoadPerceptionSemanticSegmentation).
 
 ### Model Documentation
 
